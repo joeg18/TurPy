@@ -61,7 +61,7 @@ Coherent propagation in 1D and 2D models including:
 
 ---
 ## Example Usage
-After installation, execute the turpy_unit_test.ipynb file below for demonstration of core functionality & simulation.
+After installation, execute the turpy_unit_test.ipynb file included for demonstration of core functionality & simulation.
 
 
 ## Installation
